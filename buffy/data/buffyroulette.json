@@ -1,0 +1,86 @@
+[
+ {
+  "id":"1",
+  "season":"1",
+  "episode":"1",
+  "name":"Welcome to the Hellmouth",
+  "synopsis":"Pilot episode - Buffy moves to Sunnydale and befriends Xander and Willow. Everyone is so cute and young! The Master is awoken and begins preparations for the Harvest."
+ },
+ {
+  "id":"2",
+  "season":"1",
+  "episode":"2",
+  "name":"The Harvest",
+  "synopsis":"Xander and Willow learn about Buffy's true identity as The Slayer and conspire to help her stop the Master."
+ },
+ {
+  "id":"3",
+  "season":"1",
+  "episode":"3",
+  "name":"Witch",
+  "synopsis":"The Scoobies discover that Amy's mom stole her body in order to be a great cheerleader forever, or something."
+ },
+ {
+  "id":"4",
+  "season":"1",
+  "episode":"4",
+  "name":"Teacher's Pet",
+  "synopsis":"Xander almost gets eaten by a giant bug pretending to be the new biology teacher."
+ },
+ {
+  "id":"5",
+  "season":"1",
+  "episode":"5",
+  "name":"Never Kill a Boy on the First Date",
+  "synopsis":"Angel is all jealous that Buffy is on a date with some highschool boy who nearly gets killed while Buffy is battling evil."
+ },
+ {
+  "id":"6",
+  "season":"1",
+  "episode":"6",
+  "name":"The Pack",
+  "synopsis":"Xander makes new friends, gets possessed by Hyena Demons, and eats Principal Flutie."
+ },
+ {
+  "id":"7",
+  "season":"1",
+  "episode":"7",
+  "name":"Angel",
+  "synopsis":"That creepy little Anointed One is up to no good, Buffy finds out about Angels history after kissing him for the first time, Joyce almost gets eaten by Darla, and Buffy contemplates killing Angel."
+ },
+ {
+  "id":"8",
+  "season":"1",
+  "episode":"8",
+  "name":"I, Robot� You, Jane",
+  "synopsis":"Willow develops a crush on an evil internet demon."
+ },
+ {
+  "id":"9",
+  "season":"1",
+  "episode":"9",
+  "name":"The Puppet Show",
+  "synopsis":"The Scoobies suspect a ventriloquists' dummy of murder."
+ },
+ {
+  "id":"10",
+  "season":"1",
+  "episode":"10",
+  "name":"Nightmares",
+  "synopsis":"Some kid in a coma is somehow causing everyone to experience their nightmares in waking life."
+ },
+ {
+  "id":"11",
+  "season":"1",
+  "episode":"11",
+  "name":"Out of Mind, Out of Sight",
+  "synopsis":"An invisible girl who tries to kill Cordelia."
+ },
+ {
+  "id":"12",
+  "season":"1",
+  "episode":"12",
+  "name":"Prophecy Girl",
+  "synopsis":"The Master is back with  vengenace. Buffy dies for the first time."
+ }
+]
